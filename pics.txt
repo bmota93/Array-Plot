@@ -1,0 +1,10 @@
+add rec 3.2 9.1
+add tri 4.3 5.5
+add rec 3.2 9.1
+add tri 4.3 5.5
+compAreaAll
+printAll
+del 4.3
+add rec 3.2 9.1
+add tri 4.3 5.5
+printAll
